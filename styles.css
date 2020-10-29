@@ -1,0 +1,46 @@
+.imagen{
+    height: 270px;
+    width: 100%;
+    margin-left: 0px;
+}
+.columna{
+    padding: .2px 1px;
+}
+.post{
+    padding: 10px;
+    display: inline-block;
+    width: 100%;
+    border-radius: 5px;
+    margin: 0px;
+}
+.icono{
+    font-size: 15px;
+   
+    padding: 7px;
+    border: solid silver;
+    border-radius: 5px;
+    
+}
+#title{
+    font-family: 'Cookie', cursive;
+    font-size: 35px;
+    color: grey;
+}
+.fa-instagram{
+    color: grey;
+    font-size: 35px;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color:rgb(207, 199, 199);
+}
+a {
+    color: rgb(207, 199, 199);
+    text-decoration: none;
+    background-color: transparent;
+}
+.icentro:hover{
+    color: rgb(175, 170, 170);
+}
+
